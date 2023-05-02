@@ -1,23 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T10:31:53.806Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7amulnbGPR-ehqmV2G3A" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T11:40:42.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RQtgmIk3iEJ-YTO1NtET" version="21.1.4" type="github">
   <diagram name="Page-1" id="ZOMPnf_Qf6jLGYzsngLL">
-    <mxGraphModel dx="3363" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5y53hzmk_r0o_quOetix-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="15" y="20" width="410" height="180" as="geometry" />
+          <mxGeometry x="15" y="20" width="680" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5y53hzmk_r0o_quOetix-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5y53hzmk_r0o_quOetix-7">
-          <mxGeometry y="30" width="410" height="150" as="geometry" />
+          <mxGeometry y="30" width="680" height="150" as="geometry" />
         </mxCell>
         <mxCell id="5y53hzmk_r0o_quOetix-2" value="Models" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="5y53hzmk_r0o_quOetix-7">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5y53hzmk_r0o_quOetix-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Voice&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Provider = ProviderEnum&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ConnectionType = .online, .offline&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="5y53hzmk_r0o_quOetix-7">
+        <mxCell id="5y53hzmk_r0o_quOetix-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Voice&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Language&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Provider = ProviderEnum&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ConnectionType = .online, .offline&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="5y53hzmk_r0o_quOetix-7">
           <mxGeometry x="10" y="50" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5y53hzmk_r0o_quOetix-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;ProviderEnum&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;value = .system,&amp;nbsp; .azure&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;description&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;name&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="5y53hzmk_r0o_quOetix-7">
-          <mxGeometry x="240" y="50" width="160" height="90" as="geometry" />
+          <mxGeometry x="485" y="50" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Language&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Description&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="5y53hzmk_r0o_quOetix-7">
+          <mxGeometry x="245" y="50" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;VoiceConductor&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;providers = ProviderProtocol[]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;voices = Voice[]&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;speak(text, voice)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;isPlaying&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;audioClip&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;VoiceProviderProtocol&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;speak(text, Voice, finishedCB(timeTaken, audioClip))&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;getVoices()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;setup()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="390" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Azure&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;.....&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;System&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;...&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;ETC&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;...&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5y53hzmk_r0o_quOetix-18" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
